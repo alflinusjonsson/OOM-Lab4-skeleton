@@ -54,9 +54,7 @@ public class TimeZoneTranslatorTest {
 		
 		assertEquals("2015-12-31 21:00:00", datetime.toString() );
 		
-		
-		
-		
 	}
-
+	
+	
 }
